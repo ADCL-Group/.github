@@ -1,6 +1,6 @@
 # Advanced Dynamics and Control Group
 
-The **Advanced Dynamics and Control (ADC) Group** focuses on the development and implementation of **guidance, navigation, and control (GNC)** systems for aerospace applications, along with research in a broad range of topics in **flight dynamics**.
+The Advanced Dynamics and Control (ADC) Group focuses on the development and implementation of guidance, navigation, and control (GNC) systems for aerospace applications, along with research in a broad range of topics in flight dynamics.
 
 Our mission is to advance aviation and space technologies through the development of new concepts, the implementation of innovative solutions, and the demonstration of practical applications.  
 
@@ -18,3 +18,9 @@ Our research efforts span several areas, including but not limited to:
 - Human–machine interfaces  
 - Remote sensing applications
 
+## Affiliation
+The ADC Group is part of the [College of Engineering](https://daytonabeach.erau.edu/college-engineering) at Embry-Riddle Aeronautical University.
+
+## Get Involved
+We welcome collaborations and opportunities to work with academic, industry and government partners.  
+For more information, please visit our [website](https://moncayoh-adcl.com/) or contact us at **Hever.Moncayo@erau.edu**.
