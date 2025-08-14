@@ -23,4 +23,4 @@ The ADC Group is part of the [College of Engineering](https://daytonabeach.erau.
 
 ## Get Involved
 We welcome collaborations and opportunities to work with academic, industry and government partners.  
-For more information, please visit our [website](https://moncayoh-adcl.com/) or contact us at **Hever.Moncayo@erau.edu**.
+For more information, please visit our [website](https://daytonabeach.erau.edu/about/labs/advanced-dynamics-and-control-laboratory/advanced-dynamics-and-control-group) or contact us at **Hever.Moncayo@erau.edu**.
